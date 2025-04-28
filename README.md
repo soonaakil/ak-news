@@ -1,3 +1,7 @@
+# Trendy Web Page
+Desktop View
+![trendy-news](https://github.com/user-attachments/assets/eacfc126-5d3a-4d1b-b11e-c23afd3901c8)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
