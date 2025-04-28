@@ -1,5 +1,6 @@
-# Trendy Web Page
+# Trendy News Web Page
 Desktop View
+
 ![trendy-news](https://github.com/user-attachments/assets/eacfc126-5d3a-4d1b-b11e-c23afd3901c8)
 
 # React + Vite
